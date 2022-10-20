@@ -1,0 +1,17 @@
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\02_VariablesTiposDeDatos\bin\Debug\net6.0-windows\02_VariablesTiposDeDatos.exe
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\02_VariablesTiposDeDatos\bin\Debug\net6.0-windows\02_VariablesTiposDeDatos.deps.json
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\02_VariablesTiposDeDatos\bin\Debug\net6.0-windows\02_VariablesTiposDeDatos.runtimeconfig.json
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\02_VariablesTiposDeDatos\bin\Debug\net6.0-windows\02_VariablesTiposDeDatos.dll
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\02_VariablesTiposDeDatos\bin\Debug\net6.0-windows\02_VariablesTiposDeDatos.pdb
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\02_VariablesTiposDeDatos\obj\Debug\net6.0-windows\02_VariablesTiposDeDatos.vbproj.AssemblyReference.cache
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\02_VariablesTiposDeDatos\obj\Debug\net6.0-windows\_02_VariablesTiposDeDatos.Form1.resources
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\02_VariablesTiposDeDatos\obj\Debug\net6.0-windows\02_VariablesTiposDeDatos.vbproj.GenerateResource.cache
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\02_VariablesTiposDeDatos\obj\Debug\net6.0-windows\02_VariablesTiposDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\02_VariablesTiposDeDatos\obj\Debug\net6.0-windows\02_VariablesTiposDeDatos.AssemblyInfoInputs.cache
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\02_VariablesTiposDeDatos\obj\Debug\net6.0-windows\02_VariablesTiposDeDatos.AssemblyInfo.vb
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\02_VariablesTiposDeDatos\obj\Debug\net6.0-windows\02_VariablesTiposDeDatos.vbproj.CoreCompileInputs.cache
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\02_VariablesTiposDeDatos\obj\Debug\net6.0-windows\02_VariablesTiposDeDatos.dll
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\02_VariablesTiposDeDatos\obj\Debug\net6.0-windows\refint\02_VariablesTiposDeDatos.dll
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\02_VariablesTiposDeDatos\obj\Debug\net6.0-windows\02_VariablesTiposDeDatos.pdb
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\02_VariablesTiposDeDatos\obj\Debug\net6.0-windows\02_VariablesTiposDeDatos.genruntimeconfig.cache
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\02_VariablesTiposDeDatos\obj\Debug\net6.0-windows\ref\02_VariablesTiposDeDatos.dll
