@@ -1,0 +1,17 @@
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\01_HolaMundo\bin\Debug\net6.0-windows\01_HolaMundo.exe
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\01_HolaMundo\bin\Debug\net6.0-windows\01_HolaMundo.deps.json
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\01_HolaMundo\bin\Debug\net6.0-windows\01_HolaMundo.runtimeconfig.json
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\01_HolaMundo\bin\Debug\net6.0-windows\01_HolaMundo.dll
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\01_HolaMundo\bin\Debug\net6.0-windows\01_HolaMundo.pdb
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\01_HolaMundo\obj\Debug\net6.0-windows\01_HolaMundo.vbproj.AssemblyReference.cache
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\01_HolaMundo\obj\Debug\net6.0-windows\_01_HolaMundo.Form1.resources
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\01_HolaMundo\obj\Debug\net6.0-windows\01_HolaMundo.vbproj.GenerateResource.cache
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\01_HolaMundo\obj\Debug\net6.0-windows\01_HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\01_HolaMundo\obj\Debug\net6.0-windows\01_HolaMundo.AssemblyInfoInputs.cache
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\01_HolaMundo\obj\Debug\net6.0-windows\01_HolaMundo.AssemblyInfo.vb
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\01_HolaMundo\obj\Debug\net6.0-windows\01_HolaMundo.vbproj.CoreCompileInputs.cache
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\01_HolaMundo\obj\Debug\net6.0-windows\01_HolaMundo.dll
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\01_HolaMundo\obj\Debug\net6.0-windows\refint\01_HolaMundo.dll
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\01_HolaMundo\obj\Debug\net6.0-windows\01_HolaMundo.pdb
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\01_HolaMundo\obj\Debug\net6.0-windows\01_HolaMundo.genruntimeconfig.cache
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\01_HolaMundo\obj\Debug\net6.0-windows\ref\01_HolaMundo.dll
