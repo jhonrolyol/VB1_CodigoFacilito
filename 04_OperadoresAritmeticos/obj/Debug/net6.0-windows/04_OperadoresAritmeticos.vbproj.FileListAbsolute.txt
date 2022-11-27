@@ -1,0 +1,17 @@
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\04_OperadoresAritmeticos\bin\Debug\net6.0-windows\04_OperadoresAritmeticos.exe
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\04_OperadoresAritmeticos\bin\Debug\net6.0-windows\04_OperadoresAritmeticos.deps.json
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\04_OperadoresAritmeticos\bin\Debug\net6.0-windows\04_OperadoresAritmeticos.runtimeconfig.json
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\04_OperadoresAritmeticos\bin\Debug\net6.0-windows\04_OperadoresAritmeticos.dll
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\04_OperadoresAritmeticos\bin\Debug\net6.0-windows\04_OperadoresAritmeticos.pdb
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\04_OperadoresAritmeticos\obj\Debug\net6.0-windows\04_OperadoresAritmeticos.vbproj.AssemblyReference.cache
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\04_OperadoresAritmeticos\obj\Debug\net6.0-windows\_04_OperadoresAritmeticos.Form1.resources
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\04_OperadoresAritmeticos\obj\Debug\net6.0-windows\04_OperadoresAritmeticos.vbproj.GenerateResource.cache
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\04_OperadoresAritmeticos\obj\Debug\net6.0-windows\04_OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\04_OperadoresAritmeticos\obj\Debug\net6.0-windows\04_OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\04_OperadoresAritmeticos\obj\Debug\net6.0-windows\04_OperadoresAritmeticos.AssemblyInfo.vb
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\04_OperadoresAritmeticos\obj\Debug\net6.0-windows\04_OperadoresAritmeticos.vbproj.CoreCompileInputs.cache
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\04_OperadoresAritmeticos\obj\Debug\net6.0-windows\04_OperadoresAritmeticos.dll
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\04_OperadoresAritmeticos\obj\Debug\net6.0-windows\refint\04_OperadoresAritmeticos.dll
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\04_OperadoresAritmeticos\obj\Debug\net6.0-windows\04_OperadoresAritmeticos.pdb
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\04_OperadoresAritmeticos\obj\Debug\net6.0-windows\04_OperadoresAritmeticos.genruntimeconfig.cache
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB1_CodigoFacilito\04_OperadoresAritmeticos\obj\Debug\net6.0-windows\ref\04_OperadoresAritmeticos.dll
